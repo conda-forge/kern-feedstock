@@ -1,5 +1,5 @@
 context:
-  version: "0.8.0"
+  version: "0.8.5"
 
 package:
   name: kern
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/getkern/kern/archive/v${{ version }}.tar.gz
-  sha256: 1a4fae3884f1a9ee2602cd60f4f9009c0e6da4b1c2a42d3ee768f3a3235f683e
+  sha256: 38d7616de3ff5b7fdf372a0e23c066ff4654418ee387f39daf80168ab2624c29
 
 build:
   number: 0
